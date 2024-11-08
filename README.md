@@ -1,21 +1,8 @@
 # 中国人群健康增龄研究
 
-<img src="https://github.com/Xia-Liu-Lab/Tutorial-on-Omics-Data/blob/main/ScreenShots/t0114a51d14a6baffe1.jpg" width="100" /><img src="https://github.com/Xia-Liu-Lab/Tutorial-on-Omics-Data/blob/main/ScreenShots/26753533_141012120508_4.jpg" width="100" /><img src="https://github.com/Xia-Liu-Lab/Tutorial-on-Omics-Data/blob/main/ScreenShots/%E5%A4%8F%E6%95%8F_0.jpg" width="80" /><img src="https://github.com/Xia-Liu-Lab/Tutorial-on-Omics-Data/blob/main/ScreenShots/%E6%9F%B3%E9%9B%81-%E5%AE%98%E7%BD%91.jpg" width="80" />
-</div>
+<img src="https://github.com/Xia-Liu-Lab/Tutorial-on-Omics-Data/blob/main/ScreenShots/t0114a51d14a6baffe1.jpg" width="100" /><img src="https://github.com/Xia-Liu-Lab/Tutorial-on-Omics-Data/blob/main/ScreenShots/26753533_141012120508_4.jpg" width="100">
 
-## 简介
-
-## 牵头单位
-
-中山大学公共卫生学院
-
-团队简介：xxx
-
-
-## 合作单位
-
-
-
+<img src="https://github.com/Xia-Liu-Lab/Tutorial-on-Omics-Data/blob/main/ScreenShots/%E5%A4%8F%E6%95%8F_0.jpg" width="100" /><img src="https://github.com/Xia-Liu-Lab/Tutorial-on-Omics-Data/blob/main/ScreenShots/%E6%9F%B3%E9%9B%81-%E5%AE%98%E7%BD%91.jpg" width="100">
 
 
 ## 数据类型
