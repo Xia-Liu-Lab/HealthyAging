@@ -6,10 +6,10 @@
 
 |人群类型|数据类型|
 |:---:|:---:|
-|认知障碍|基因组 [(示例)]()|
-|抑郁|代谢组 [(示例)]()|
-|糖尿病|蛋白组 [(示例)]()|
-|心脑血管疾病|宏基因组 [(示例)]()|
+|认知障碍|基因组 [(示例)](https://github.com/Xia-Liu-Lab/HealthyAging/blob/main/%E7%A4%BA%E4%BE%8B%E6%95%B0%E6%8D%AE/%E5%9F%BA%E5%9B%A0%E7%BB%84.bed)|
+|抑郁|代谢组 [(示例)](https://github.com/Xia-Liu-Lab/HealthyAging/blob/main/%E7%A4%BA%E4%BE%8B%E6%95%B0%E6%8D%AE/%E4%BB%A3%E8%B0%A2%E7%BB%84.csv)|
+|糖尿病|蛋白组 [(示例)](https://github.com/Xia-Liu-Lab/HealthyAging/blob/main/%E7%A4%BA%E4%BE%8B%E6%95%B0%E6%8D%AE/%E5%AE%8F%E5%9F%BA%E5%9B%A0%E7%BB%84.csv)|
+|心脑血管疾病|宏基因组 [(示例)](https://github.com/Xia-Liu-Lab/HealthyAging/blob/main/%E7%A4%BA%E4%BE%8B%E6%95%B0%E6%8D%AE/%E5%AE%8F%E5%9F%BA%E5%9B%A0%E7%BB%84.csv)|
 |恶性肿瘤|影像组 [(示例)](https://github.com/Xia-Liu-Lab/HealthyAging/blob/main/%E7%A4%BA%E4%BE%8B%E6%95%B0%E6%8D%AE/%E8%84%91CT_S01.nii.gz)|
 |共同对照|5万人临床表型数据 [(示例)]()|
 
